@@ -1,0 +1,12 @@
+{
+  "name": "meu-visual-novel-frontend",
+  "version": "0.1.0",
+  "description": "Front-end da visual novel: interface e motor do jogo",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  }
+}

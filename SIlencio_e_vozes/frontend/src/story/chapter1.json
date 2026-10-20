@@ -1,0 +1,12 @@
+{
+  "start": {
+    "background": "quarto.png",
+    "character": "ana",
+    "expression": "happy",
+    "text": "Bom dia! Pronto para a aventura?",
+    "choices": [
+      { "text": "Sim!", "next": "cena2" },
+      { "text": "Só mais 5 minutinhos...", "next": "cena3" }
+    ]
+  }
+}

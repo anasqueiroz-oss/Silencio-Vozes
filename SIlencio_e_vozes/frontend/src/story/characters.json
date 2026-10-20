@@ -1,0 +1,10 @@
+{
+  "ana": {
+    "name": "Ana",
+    "color": "#ff7fa8",
+    "sprites": {
+      "happy": "ana_happy.png",
+      "sad": "ana_sad.png"
+    }
+  }
+}
